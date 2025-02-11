@@ -8,7 +8,7 @@ import pygetwindow as gw
 
 # Configuración
 MODEL_PATH = "game_controller_model.h5"
-GAME_WINDOW_NAME = "Nombre de tu ventana del juego"
+GAME_WINDOW_NAME = "RIDE 5"
 THRESHOLD = 0.5  # Umbral para activación de teclas
 
 class GameRunner:
