@@ -31,6 +31,9 @@ El script capturará la pantalla y las teclas presionadas, guardándolas en el d
 
 El entrenamiento se realiza en el archivo `training.ipynb`. Asegúrate de cargar los datos capturados antes de entrenar el modelo.
 
+![image](https://github.com/user-attachments/assets/fc221a3b-4251-45ba-af90-60cda437a0e5)
+
+
 ## 🕹️ Ejecución del Controlador del Juego
 
 Para ejecutar el modelo en tiempo real y controlar el juego:
