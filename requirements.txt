@@ -5,3 +5,6 @@ pillow
 keyboard 
 pygetwindow
 jupyter
+scikit-learn
+matplotlib
+seaborn
