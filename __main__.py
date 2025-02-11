@@ -46,6 +46,7 @@ class GameRunner:
         keyboard.release('d')
         
         # Presionar teclas activas
+        print(f'Presionando: {keys}\n')
         for key, active in keys:
             if active > THRESHOLD:
                 keyboard.press(key)
